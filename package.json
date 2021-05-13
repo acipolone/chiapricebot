@@ -1,0 +1,12 @@
+{
+  "name": "pricebot",
+  "version": "1.0.0",
+  "description": "Bot that changes name based on crypto price",
+  "main": "pricebot.js",
+  "author": "Big Onion",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "winston": "^3.3.3"
+  }
+}
